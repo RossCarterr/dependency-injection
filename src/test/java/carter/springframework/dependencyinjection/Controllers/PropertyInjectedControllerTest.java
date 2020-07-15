@@ -1,6 +1,6 @@
-package carter.sprignframework.dependencyinjection.Controllers;
+package carter.springframework.dependencyinjection.Controllers;
 
-import carter.sprignframework.dependencyinjection.Services.ConstructorGreetingService;
+import carter.springframework.dependencyinjection.Services.ConstructorGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

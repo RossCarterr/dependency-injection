@@ -1,4 +1,4 @@
-package carter.sprignframework.dependencyinjection.Services;
+package carter.springframework.dependencyinjection.Services;
 
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;

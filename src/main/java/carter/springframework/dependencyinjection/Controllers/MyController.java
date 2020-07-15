@@ -1,6 +1,6 @@
-package carter.sprignframework.dependencyinjection.Controllers;
+package carter.springframework.dependencyinjection.Controllers;
 
-import carter.sprignframework.dependencyinjection.Services.GreetingService;
+import carter.springframework.dependencyinjection.Services.GreetingService;
 import org.springframework.stereotype.Controller;
 
 @Controller

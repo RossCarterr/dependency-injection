@@ -1,7 +1,7 @@
-package carter.sprignframework.dependencyinjection.Controllers;
+package carter.springframework.dependencyinjection.Controllers;
 
 
-import carter.sprignframework.dependencyinjection.Services.PetService;
+import carter.springframework.dependencyinjection.Services.PetService;
 import org.springframework.stereotype.Controller;
 
 /**
